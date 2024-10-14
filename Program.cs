@@ -68,7 +68,7 @@ namespace zaklady_her
                         Console.WriteLine(".");
                     }
 
-                if (y == "kámen" && x == "kámen")
+                if (y == "papír" && x == "papír")
                     {
                         Console.WriteLine(".");
                         Console.WriteLine("Remíza");

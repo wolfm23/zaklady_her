@@ -1,0 +1,15 @@
+C:\Users\wolfm23\source\zaklady_her\zaklady_her\bin\Debug\net8.0\zaklady_her.exe
+C:\Users\wolfm23\source\zaklady_her\zaklady_her\bin\Debug\net8.0\zaklady_her.deps.json
+C:\Users\wolfm23\source\zaklady_her\zaklady_her\bin\Debug\net8.0\zaklady_her.runtimeconfig.json
+C:\Users\wolfm23\source\zaklady_her\zaklady_her\bin\Debug\net8.0\zaklady_her.dll
+C:\Users\wolfm23\source\zaklady_her\zaklady_her\bin\Debug\net8.0\zaklady_her.pdb
+C:\Users\wolfm23\source\zaklady_her\zaklady_her\obj\Debug\net8.0\zaklady_her.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wolfm23\source\zaklady_her\zaklady_her\obj\Debug\net8.0\zaklady_her.AssemblyInfoInputs.cache
+C:\Users\wolfm23\source\zaklady_her\zaklady_her\obj\Debug\net8.0\zaklady_her.AssemblyInfo.cs
+C:\Users\wolfm23\source\zaklady_her\zaklady_her\obj\Debug\net8.0\zaklady_her.csproj.CoreCompileInputs.cache
+C:\Users\wolfm23\source\zaklady_her\zaklady_her\obj\Debug\net8.0\zaklady_her.sourcelink.json
+C:\Users\wolfm23\source\zaklady_her\zaklady_her\obj\Debug\net8.0\zaklady_her.dll
+C:\Users\wolfm23\source\zaklady_her\zaklady_her\obj\Debug\net8.0\refint\zaklady_her.dll
+C:\Users\wolfm23\source\zaklady_her\zaklady_her\obj\Debug\net8.0\zaklady_her.pdb
+C:\Users\wolfm23\source\zaklady_her\zaklady_her\obj\Debug\net8.0\zaklady_her.genruntimeconfig.cache
+C:\Users\wolfm23\source\zaklady_her\zaklady_her\obj\Debug\net8.0\ref\zaklady_her.dll

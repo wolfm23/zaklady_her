@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "zaklady_her/1.0.0": {
+        "runtime": {
+          "zaklady_her.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "zaklady_her/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
