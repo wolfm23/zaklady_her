@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wolfm23\\source\\repos\\(pi)škvor(ky)\\(pi)škvor(ky).csproj": {}
+    "C:\\Users\\wolfm23\\source\\zaklady_her\\(pi)škvor(ky)\\(pi)škvor(ky).csproj": {}
   },
   "projects": {
-    "C:\\Users\\wolfm23\\source\\repos\\(pi)škvor(ky)\\(pi)škvor(ky).csproj": {
+    "C:\\Users\\wolfm23\\source\\zaklady_her\\(pi)škvor(ky)\\(pi)škvor(ky).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wolfm23\\source\\repos\\(pi)škvor(ky)\\(pi)škvor(ky).csproj",
+        "projectUniqueName": "C:\\Users\\wolfm23\\source\\zaklady_her\\(pi)škvor(ky)\\(pi)škvor(ky).csproj",
         "projectName": "(pi)škvor(ky)",
-        "projectPath": "C:\\Users\\wolfm23\\source\\repos\\(pi)škvor(ky)\\(pi)škvor(ky).csproj",
+        "projectPath": "C:\\Users\\wolfm23\\source\\zaklady_her\\(pi)škvor(ky)\\(pi)škvor(ky).csproj",
         "packagesPath": "C:\\Users\\wolfm23\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wolfm23\\source\\repos\\(pi)škvor(ky)\\obj\\",
+        "outputPath": "C:\\Users\\wolfm23\\source\\zaklady_her\\(pi)škvor(ky)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wolfm23\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "FakeItEasy": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

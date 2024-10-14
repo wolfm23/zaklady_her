@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wolfm23\\source\\zaklady_her\\zaklady_her\\kámen,nůžky,papír.csproj": {}
+    "C:\\Users\\wolfm23\\source\\zaklady_her\\kámen, nůžky, papír\\kámen,nůžky,papír.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wolfm23\\source\\zaklady_her\\zaklady_her\\kámen,nůžky,papír.csproj": {
+    "C:\\Users\\wolfm23\\source\\zaklady_her\\kámen, nůžky, papír\\kámen,nůžky,papír.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wolfm23\\source\\zaklady_her\\zaklady_her\\kámen,nůžky,papír.csproj",
+        "projectUniqueName": "C:\\Users\\wolfm23\\source\\zaklady_her\\kámen, nůžky, papír\\kámen,nůžky,papír.csproj",
         "projectName": "kámen,nůžky,papír",
-        "projectPath": "C:\\Users\\wolfm23\\source\\zaklady_her\\zaklady_her\\kámen,nůžky,papír.csproj",
+        "projectPath": "C:\\Users\\wolfm23\\source\\zaklady_her\\kámen, nůžky, papír\\kámen,nůžky,papír.csproj",
         "packagesPath": "C:\\Users\\wolfm23\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wolfm23\\source\\zaklady_her\\zaklady_her\\obj\\",
+        "outputPath": "C:\\Users\\wolfm23\\source\\zaklady_her\\kámen, nůžky, papír\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wolfm23\\AppData\\Roaming\\NuGet\\NuGet.Config",
